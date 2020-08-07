@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "gatsby-graphql-cms",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A gatsby series graphqlCMS basic demo.",
   "version": "0.1.0",
-  "license": "0BSD",
+  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "gatsby": "^2.24.26",
+    "gatsby-source-graphql": "^2.7.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
