@@ -1,1 +1,1 @@
-# gatsby-grapqh-cms
+# gatsby-graphql-cms
